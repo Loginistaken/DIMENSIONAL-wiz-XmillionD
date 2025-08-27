@@ -9,20 +9,6 @@ is one of those rare ideas that opened entire new dimensions in quantum optics.
 
 We begin by thanking the scientists, laboratories, and universities who first demonstrated the potential of the BFC. 
 
-Pioneering teams in the early 2010s through 2020s — including researchers at the University of Rochester, NIST, MIT,
-
-Caltech, and many collaborators — showed that photons could be entangled not just in polarization, but in frequency and time.
-
-In particular, work by Jun Ye’s group (JILA/NIST, ~2015–2020), M. Kues et al. (Nature Photonics 2017), and J. Lukens & P. Lougovski
-
-(ORNL, 2017–2019) established the theoretical and experimental groundwork. More recently, demonstrations of ≥648-dimensional
-
-entanglement by teams including X. Qi’s group at USTC (2020) and NIST/JILA collaborations proved the unimaginable: that a 
-
-single biphoton frequency comb could span hundreds of entangled modes.
-
-Without these breakthroughs — painstakingly validated through Hong–Ou–Mandel (HOM) revivals, Franson interferometers, and frequency-bin tomography — none of what we attempt today would be possible. This article is not a reinvention, but an evolution built on the strong shoulders of giants.
-
 The Biphoton Frequency Comb — Why It Matters
 
 In simplest terms:
@@ -197,6 +183,19 @@ Collaborators worldwide at MIT, Caltech, University of Rochester, NIST, and ORNL
 
 It is their ingenuity, experiments, and perseverance that brought the BFC into existence.
 What we present here — alexandrite doping, heat integration, chromatic binary stamping — is an extension, a continuation of their story.
+Pioneering teams in the early 2010s through 2020s — including researchers at the University of Rochester, NIST, MIT,
+
+Caltech, and many collaborators — showed that photons could be entangled not just in polarization, but in frequency and time.
+
+In particular, work by Jun Ye’s group (JILA/NIST, ~2015–2020), M. Kues et al. (Nature Photonics 2017), and J. Lukens & P. Lougovski
+
+(ORNL, 2017–2019) established the theoretical and experimental groundwork. More recently, demonstrations of ≥648-dimensional
+
+entanglement by teams including X. Qi’s group at USTC (2020) and NIST/JILA collaborations proved the unimaginable: that a 
+
+single biphoton frequency comb could span hundreds of entangled modes.
+
+Without these breakthroughs — painstakingly validated through Hong–Ou–Mandel (HOM) revivals, Franson interferometers, and frequency-bin tomography — none of what we attempt today would be possible. This article is not a reinvention, but an evolution built on the strong shoulders of giants.
 
 ✅ Conclusion:
 The biphoton frequency comb gave us hundreds of dimensions.
