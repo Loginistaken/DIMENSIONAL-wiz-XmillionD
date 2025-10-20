@@ -196,8 +196,7 @@ Human/computer synesthesia & control: color-coded debugging, ops displays, easie
 Security: frequency-bin QKD and entanglement-based keys at the physical layer.
 
 2) Positives — categories and elaboration
-
-I’ll list many categories and explain how base-26 photonic logic helps in each.
+how base-26 photonic logic helps in each.
 
 A. Bandwidth & spectral efficiency
 
