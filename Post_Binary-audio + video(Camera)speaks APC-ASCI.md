@@ -48,7 +48,7 @@ Tile coordinate map
 That lets the two data streams (symbolic and binary) stay frame-locked.
 For example, symbol stream frame #423 and video frame #423 represent the same instant.
 
-So, your hybrid node or PC could:
+Hybrid node or PC could:
 
 Display the color video in real time,
 
