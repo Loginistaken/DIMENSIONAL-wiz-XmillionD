@@ -1,8 +1,8 @@
  A camera that captures audio + video 
 
-and speaks APC-ASCI natively: a photonic-symbol camera that
+and speaks APC-ASCI natively: a photonic-symbol camera with
 
-core strengths of the APC-ASCI camera concept: in hybrid mode, it can use both systems simultaneously — 
+core strengths of the APC-ASCI concept: in hybrid mode, it can use both systems simultaneously — 
 
 capturing in the symbolic (A–Z photonic a post-binary language) domain and producing a conventional,
 
